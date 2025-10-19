@@ -15,7 +15,7 @@ A web application built using PHP, MySQL, HTML, CSS, and JavaScript to help Kiwi
    ├── stats.php
    ├── db.php
    ├── assets/
-   │   └── styles.css
+      └── styles.css
    └── README.txt
 
 ## Setup Instructions
