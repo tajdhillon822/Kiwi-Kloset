@@ -7,6 +7,17 @@ A web application built using PHP, MySQL, HTML, CSS, and JavaScript to help Kiwi
 - Add new costumes with validation and security
 - View rental statistics (top costumes, revenue, etc.)
 
+## File structure should look like this:
+   kiwi-kloset/
+   ├── index.php
+   ├── rentals.php
+   ├── add.php
+   ├── stats.php
+   ├── db.php
+   ├── assets/
+   │   └── styles.css
+   └── README.txt
+
 ## Setup Instructions
 1. Import `kiwi_kloset.sql` into your MySQL database using phpMyAdmin.
 2. Place this folder in your Apache server directory (`/var/www/html/kiwi-kloset`).
